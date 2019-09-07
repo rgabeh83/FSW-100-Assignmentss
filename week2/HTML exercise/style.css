@@ -1,4 +1,7 @@
-#pictures a {
-    height: 50%;
-    width: 50%
+.sections {
+    font-size: 2em
+}
+.sections img {
+    width: 40%;
+    height: 40%S
 }
