@@ -1,7 +1,9 @@
+body {
+    background-color: bisque
+}
 .sections {
     font-size: 2em
 }
 .sections img {
-    width: 40%;
-    height: 40%S
+    border: 20px solid beige
 }
