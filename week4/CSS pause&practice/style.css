@@ -1,0 +1,41 @@
+body {
+    background-color: lightblue
+}
+.nav-bar{ 
+    position: fixed;
+    top: 20px;
+    width: 100%;
+    background-color: white;
+    height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.blog {
+    position: center;
+    top: 100px;
+    left: 200px;
+    text-align: center;
+    padding: 50px;
+    margin: 20px
+}
+.blog img {
+    height: 150px;
+    width: 150px;
+    float: left;
+    border: block;
+    margin: 20px
+}
+.home {
+    position: relative;
+    left: 100px
+}
+.about {
+    position: relative;
+    padding: 20px;
+    left: 600px
+}
+.grid {
+    position: relative;
+    left: 1000px
+}

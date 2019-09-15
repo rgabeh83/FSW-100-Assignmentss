@@ -1,0 +1,39 @@
+
+* {
+    box-sizing: border-box;
+    font-size: 0px
+}
+#lightpink {
+    width: 100%;
+    height: 100px;
+    background-color:  #f5c6dc;
+    border: 10px white solid
+}
+.pinkboxes {
+    width: 25%;
+    height: 100px;
+    background-color: #EE2E84;
+    border: 10px white solid;
+    float: right
+}
+.lightblueboxes {
+    width: 50%;
+    height: 100px;
+    background-color: #85CFD8;
+    border: 10px white solid;
+    float: right
+}
+#greenbox {
+    width: 75%;
+    height: 100px;
+    background-color: #8DC63F;
+    border: 10px white solid;
+    float: left
+}
+#orangebox {
+    width: 25%;
+    height: 100px;
+    background: #E76E34;
+    border: 10px white solid;
+    float: right
+}
