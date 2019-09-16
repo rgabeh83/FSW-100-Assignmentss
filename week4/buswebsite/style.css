@@ -1,0 +1,33 @@
+html, body{
+    margin:0px;
+    padding: 0;
+    background-color: black;
+    color: white;
+    font-family: 'nanum', sans-serif
+  }
+}
+.nav-bar {
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    font-family: arial
+}
+.home {
+    position: relative;
+    left: 100px
+}
+.about {
+    position: relative;
+    left: 20%
+}
+.contact {
+    position: relative;
+    left: 20%
+}.main {
+    padding: 200px;
+    background: color;
+    margin: 20px
+}
+
+
+
